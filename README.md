@@ -13,7 +13,7 @@ You are writing your master thesis and you don't want to keep the history of wha
 
 ###Main Task
 1. Create a new directory and change into it.
-2. Use the **init** comm and to create a Git repository in that directory.
+2. Use the **init** command to create a Git repository in that directory.
 3. Observe that there is now a **.git** directory.
 4. Create a README file.
 5. Look at the output of the **status** command; the README you created should appear as an untracked file.
